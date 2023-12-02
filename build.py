@@ -52,7 +52,7 @@ import shutil
 # (2) the images to be included and (3) the style sheets to be included. Edit
 # these as needed.
 
-PAGES = ["cfp", "index"]
+PAGES = ["cfp", "index", "committee"]
 IMAGES = [os.path.join("images", "logo", "LAW18_Logo.svg")]
 STYLESHEETS = [os.path.join("css", "law2023.css")]
 
