@@ -25,7 +25,8 @@ for line in open("committee.txt"):
     if line.find("(") > -1:
         # these are lines like "Adam Meyers (New York University)"
         started = True
-        person, affiliation = line.split("(")
+        # maxsplit=1 to correctly process parentheses in the affiliations
+        person, affiliation = line.split("(", maxsplit=1)
         person = person.strip()
         affiliation = affiliation.strip()[:-1]
         print("<tr>")
