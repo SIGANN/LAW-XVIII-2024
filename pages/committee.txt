@@ -1,6 +1,6 @@
 Program Chairs
 =================
-Manfred Stede (Potsdam University)
+Manfred Stede (University of Potsdam)
 Sophie Henning (Bosch Center for Artificial Intelligence and LMU Munich)
 
 
@@ -13,6 +13,7 @@ Ines Rehbein (Mannheim University)
 Program Committee
 ================
 Omri Abend (Hebrew University of Jerusalem)
+Berfin Aktas (University of Potsdam)
 Claire Bonial (DEVCOM US Army Research Lab)
 Miriam Butt (University of Konstanz)
 Marie Candito (LLF (Université Paris Cité / CNRS))
@@ -37,11 +38,13 @@ Siyao Peng (Ludwig Maximilian University of Munich)
 Miriam R. L. Petruck (International Computer Science Institute)
 Massimo Poesio (Queen Mary University and University of Utrecht)
 Jakob Prange (University of Augsburg)
+Robin Schaefer (University of Potsdam)
 Nathan Schneider (Georgetown University)
 Ludovic Tanguy (Université de Toulouse 2)
 Joel Tetreault (Dataminr, Inc.)
 Lilian Diana Awuor Wanzare (Maseno University)
 Michael Wiegand (University of Klagenfurt)
+Mohammad Yeghaneh Abkenar (University of Potsdam)
 Amir Zeldes (Georgetown University)
 Winnie Huiheng Zeng (Hong Kong Shue Yan University)
 Deniz Zeyrek (Middle East Technical University)
