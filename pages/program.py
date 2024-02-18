@@ -31,7 +31,7 @@ new_program_html = ""
 
 def add_session_info(new_program_html):
     for session in sessions:
-        new_program_html += "<br/><br/><br/>\n\n<h2>" + session + "</h2>\n"
+        new_program_html += "<br/><br/>\n\n<h2>" + session + "</h2>\n"
         if len(sessions[session]) == 0:
             new_program_html += "<i>Info on papers will be added soon.</i><br/><br/>\n\n"
 
