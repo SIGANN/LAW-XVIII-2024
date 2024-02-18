@@ -1,35 +1,21 @@
-"Submission ID","Title","Authors",
-"7","Medieval Social Media: Manual and Automatic Annotation of Byzantine Greek Marginal Writing","Colin Swaelens, Ilse De Vos and Els Lefever",
-"8","'Orpheus Came to His End by Being Struck by a Thunderbolt': Annotating Events in Mythological Sequences","Franziska Pannach",
-"9","Difficulties in Handling Mathematical Expressions in Universal Dependencies","Lauren Levine",
-"11","A Dataset for Physical and Abstract Plausibility and Sources of Human Disagreement","Annerose Eichel and Sabine Schulte im Walde",
-"12","Annotating and Disambiguating the Discourse Usage of the Enclitic dA in Turkish","Ebru Ersöyleyen, Deniz Zeyrek and Fırat Öter",
-"13","An Active Learning Pipeline for NLU Error Detection in Conversational Agents","Damian Pascual, Aritz Bercher, Akansha Bhardwaj, Mingbo Cui, Dominic Kohler, Liam van der Poel and Paolo Rosso",
-"18","Multi-layered Annotation of Conversation-like Narratives in German","Magdalena Repp, Petra B. Schumacher and Fahime Same",
-"20","Crowdsourcing on Sensitive Data with Privacy-Preserving Text Rewriting","Nina Mouhammad, Johannes Daxenberger, Benjamin Schiller and Ivan Habernal",
-"22","Extending an Event-type Ontology: Adding Verbs and Classes Using Fine-tuned LLMs Suggestions","Jana Straková, Eva Fučíková, Jan Hajič and Zdenka Uresova",
-"26","Temporal and Second Language Influence on Intra-Annotator Agreement and Stability in Hate Speech Labelling","Gavin Abercrombie, Dirk Hovy and Vinodkumar Prabhakaran",
-"27","BenCoref: A Multi-Domain Dataset of Nominal Phrases and Pronominal Reference Annotations","Shadman Rohan, Mojammel Hossain, Mohammad Mamun Or Rashid and Nabeel Mohammed",
-"28","Annotators-in-the-loop: Testing a Novel Annotation Procedure on Italian Case Law","Emma Zanoli, Matilde Barbini, Davide Riva, Sergio Picascia, Emanuela Furiosi, Stefano D'Ancona and Cristiano Chesi",
-"33","Annotating Decomposition in Time: Three Approaches for Again","Martin Kopf and Remus Gergel",
-"34","How Good Is the Model in Model-in-the-loop Event Coreference Resolution Annotation?","Shafiuddin Rehan Ahmed, Abhijnan Nath, Michael Regan, Adam Pollins, Nikhil Krishnaswamy and James H. Martin",
-"38","Pragmatic Annotation of Articles Related to Police Brutality","Tess Feyen, Alda Mari and Paul Portner",
-"40","The RST Continuity Corpus","Debopam Das and Markus Egg",
-"41","GENTLE: A Genre-Diverse Multilayer Challenge Set for English NLP and Linguistic Evaluation","Tatsuya Aoyama, Shabnam Behzad, Luke Gessler, Lauren Levine, Jessica Lin, Yang Janet Liu, Siyao Peng, Yilun Zhu and Amir Zeldes",
-"42","A Study on Annotation Interfaces for Summary Comparison","Sian Gooding, Lucas Werner and Victor Cărbune",
-"44","A Question Answering Benchmark Database for Hungarian","Attila Novák, Borbála Novák, Tamás Zombori, Gergő Szabó, Zsolt Szántó and Richárd Farkas",
-"47","No Strong Feelings One Way or Another: Re-operationalizing Neutrality in Natural Language Inference","Animesh Nighojkar, Antonio Laverghetta Jr. and John Licato",
-"48","UMR-Writer 2.0: Incorporating a New Keyboard Interface and Workflow into UMR-Writer","Sijia Ge, Jin Zhao, Kristin Wright-Bettner, Skatje Myers, Nianwen Xue and Martha Palmer",
-"50","Unified Syntactic Annotation of English in the CGEL Framework","Brett Reynolds, Aryaman Arora and Nathan Schneider",
-"51","Annotating Discursive Roles of Sentences in Patent Descriptions","Lufei LIU, Xu SUN, Franois VELTZ and Kim GERDES",
-"52","The Effect of Alignment Correction on Cross-Lingual Annotation Projection","Shabnam Behzad, Seth Ebner, Marc Marone, Benjamin Van Durme and Mahsa Yarmohammadi",
-"54","When Do Annotator Demographics Matter? Measuring the Influence of Annotator Demographics with the POPQUORN Dataset","Jiaxin Pei and David Jurgens",
-"58","Enriching the NArabizi Treebank: A Multifaceted Approach to Supporting an Under-Resourced Language","Arij Riabi, Menel Mahamdi and Djamé Seddah",
-"61","Verifying Annotation Agreement without Multiple Experts: A Case Study with Gujarati SNACS","Maitrey Mehta and Vivek Srikumar",
-"62","HeGeL: A Novel Dataset for Geo-Location from Hebrew Text","Tzuf Paz-Argaman, Tal Bauman, Itai Mondshine, Itzhak Omer, Sagi Dalyot and Reut Tsarfaty",
-"63","HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language","Shantipriya Parida, Idris Abdulmumin, Shamsuddeen Hassan Muhammad, Aneesh Bose, Guneet Singh Kohli, Ibrahim Said Ahmad, Ketan Kotwal, Sayan Deb Sarkar, Ondřej Bojar and Habeebah Adamu Kakudi",
-"64","An Investigation of Noise in Morphological Inflection","Adam Wiemerslage, Changbing Yang, Garrett Nicolai, Miikka Silfverberg and Katharina Kann",
-"66","Common Law Annotations: Investigating the Stability of Dialog System Output Annotations","Seunggun Lee, Alexandra DeLucia, Nikita Nangia, Praneeth Ganedi, Ryan Guan, Rubing Li, Britney Ngaw, Aditya Singhal, Shalaka Vaidya, Zijun Yuan, Lining Zhang and João Sedoc",
-"68","Multi-lingual and Multi-cultural Figurative Language Understanding","Anubha Kabra, Emmy Liu, Simran Khanuja, Alham Fikri Aji, Genta Winata, Samuel Cahyawijaya, Anuoluwapo Aremu, Perez Ogayo and Graham Neubig",
-"69","A Call for Standardization and Validation of Text Style Transfer Evaluation","Phil Ostheimer, Mayank Kumar Nagda, Marius Kloft and Sophie Fellenz",
-"71","The Coreference under Transformation Labeling Dataset: Entity Tracking in Procedural Texts Using Event Models","Kyeongmin Rim, Jingxuan Tu, Bingyang Ye, Marc Verhagen, Eben Holderness and James Pustejovsky",
+Submission ID,Title,Authors
+6,TreeForm: End-to-end Annotation and Evaluation for Form Document Parsing,"Ran Zmigrod, Zhiqiang Ma, Armineh Nourbakhsh and Sameena Shah"
+7,Annotation Scheme for English Argument Structure Constructions Treebank,Hakyung Sung and Kristopher Kyle
+8,A Mapping on Current Classifying Categories of Emotions Used in Multimodal Models for Emotion Recognition,"Ziwei Gong, Muyin Yao, Xinyi Hu, Xiaoning Zhu and Julia Hirschberg"
+10,"Surveying the FAIRness of Annotation Tools: Difficult to find, difficult to reuse","Ekaterina Borisova, Raia Abu Ahmad, Leyla Jael Garcia-Castro, Ricardo Usbeck and Georg Rehm"
+13,Automatic Annotation Elaboration as Feedback to Sign Language Learners,Alessia Battisti and Sarah Ebling
+15,Towards Better Inclusivity: A Diverse Tweet Corpus of English Varieties,"Nhi Pham, Lachlan Pham and Adam Meyers"
+18,Building a corpus for the anonymization of Romanian jurisprudence,"Vasile Păiș, Dan Tufis, Elena Irimia and Verginica Barbu Mititelu"
+19,Class Balancing for Efficient Active Learning in Imbalanced Datasets,"Yaron Fairstein, Oren Kalinsky, Zohar Karnin, Guy Kushilevitz, Alexander Libov and Sofia Tolmach"
+21,When is a Metaphor Actually Novel? Annotating Metaphor Novelty in the Context of Automatic Metaphor Detection,Sebastian Reimann and Tatjana Scheffler
+22,Enhancing Text Classification through LLM-Driven Active Learning and Human Annotation,Hamidreza Rouzegar and Masoud Makrehchi
+23,Using ChatGPT for Annotation of Attitude within the Appraisal Theory: Lessons Learned,"Mirela Imamovic, Silvana Deilen, Dylan Glynn and Ekaterina Lapshinova-Koltunski"
+24,Are You Serious? Handling Disagreement When Annotating Conspiracy Theory Texts,"Ashley Hemm, Sandra Kübler, Michelle Seelig, John Funchion, Manohar Murthi, Kamal Premaratne, Daniel Verdear and Stefan Wuchty"
+25,A GPT among Annotators: LLM-based Entity-Level Sentiment Annotation,"Egil Rønningstad, Erik Velldal and Lilja Øvrelid"
+26,Datasets Creation and Empirical Evaluations of Cross-Lingual Learning on Extremely Low-Resource Languages : A Focus on Comorian Dialects,"Abdou Mohamed Naira, Benelallam Imade, Bahafid Abdessalam and Erraji Zakarya"
+29,Prompting Implicit Discourse Relation Annotation,"Frances Yung, Mansoor Ahmad, Merel Scholman and Vera Demberg"
+38,PropBank goes Public: Incorporation into Wikidata,"Elizabeth Spaulding, Kathryn Conger, Anatole Gershman, Mahir Morshed, Susan Windisch Brown, James Pustejovsky, Rosario Uceda-Sosa, Sijia Ge and Martha Palmer"
+41,Reference and discourse structure annotation of elicited chat continuations in German,"Katja Jasinskaja, Yuting Li, Fahime Same and David Uerlings"
+42,Dependency Annotation of Ottoman Turkish with Multilingual BERT,"Şaziye Özateş, Tarık Emre Tıraş, Efe Eren Genç and Esma Bilgin Tasdemir"
+43,Donkii: Characterizing and Detecting Errors in Instruction-Tuning Datasets,"Leon Weber, Robert Litschko, Ekaterina Artemova and Barbara Plank"
+47,EEVEE: An Easy Annotation Tool for Natural Language Processing,"Axel Sorensen, Siyao Peng, Barbara Plank and Rob van der Goot"
